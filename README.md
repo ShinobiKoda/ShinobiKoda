@@ -18,8 +18,7 @@ I may be just starting out, but I'm committed to learning and growing. Here's a 
 - 🌐 Aspiring to build exciting web projects in the future.
 
 ## Projects
-
-While I haven't worked on any projects yet, I'm eager to apply what I've learned and create some amazing things. Stay tuned for future projects!
+I am currently going through Front End Mentor Challenges to improve my skills
 
 ## Hobbies and Interests
 

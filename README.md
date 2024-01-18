@@ -1,12 +1,12 @@
 # Hello, I'm Praise! 👋
 
-I'm a beginner based in Nigeria, on a journey to learn web development with a focus on HTML, CSS, and JavaScript. I'm excited to share my coding adventures and progress with the GitHub community.
+I'm based in Nigeria, on a journey to learn web development with a focus on HTML, CSS, JavaScript and react. I'm excited to share my coding adventures and progress with the GitHub community.
 
 ## About Me
 
 - 🌍 Location: Nigeria 🇳🇬
 - 💼 Current Status: Aspiring Web Developer
-- 🌱 Currently Learning: HTML, CSS, and JavaScript
+- 🌱 Currently Learning: HTML, CSS, JavaScript and react
 - 😄 Pronouns: He/Him
 
 ## Learning Journey

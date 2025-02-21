@@ -1,33 +1,21 @@
-# Hello, I'm Praise! 👋
+# Hi there, I'm Praise! 👋 
+  
 
-I'm based in Nigeria, on a journey into web development with a focus on HTML, CSS, JavaScript and React. I'm excited to share my coding adventures and progress with the GitHub community.
+Welcome to my GitHub! I'm a frontend developer, I build sleek, responsive, and accessible web applications. 🚀  
 
-## About Me
+## 🛠️ Tech Stack  
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/shadcn-ui/ui/main/apps/www/public/favicon.ico" title="ShadCN" alt="ShadCN" width="40" height="40"/>
+</div>
 
-- 🌍 Location: Nigeria 🇳🇬
-- 💼 Current Status: Front End Web Developer
-- 🌱 Area of Expertise: HTML, CSS, JavaScript, React
+## 📫 Let's Connect!  
+- 🌐 [Portfolio (Coming Soon)]()  
+- 📩 [Email Me](praiseadebiyi2006@gmail.com)  
+- 💬 Let's talk about **frontend, UI/UX, or your next project!**  
 
-## Learning Journey
-
-I'm committed to learning and growing. Here's a glimpse of my journey:
-
-- 📚 Currently diving into HTML, CSS, and JavaScript.
-- 💡 Exploring new web development concepts daily.
-- 🌐 Aspiring to build exciting web projects in the future.
-
-## Hobbies and Interests
-
-- 🔭 I'm a tech enthusiast and love exploring new technologies.
-- 🎮 Gaming is my passion, and my favorite game is "Ghost of Tsushima."
-- 📖 Currently reading "Rich Dad Poor Dad" for inspiration.
-
-## Get in Touch
-
-I'm always open to connecting with fellow learners and developers. Feel free to reach out:
-
-- 📫 Email: [sirp2804@gmail.com](mailto:sirp2804@gmail.com)
-
-Let's learn and grow together!
-
-Thank you for visiting my GitHub profile. Stay tuned for my coding journey and future projects oh and before you go..... say my name!
+---

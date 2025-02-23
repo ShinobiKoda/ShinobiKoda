@@ -15,7 +15,7 @@ Welcome to my GitHub! I'm a frontend developer, I build sleek, responsive, and a
 
 ## 📫 Let's Connect!  
 - 🌐 [Portfolio (Coming Soon)]()  
-- 📩 [Email Me](praiseadebiyi2006@gmail.com)  
+- 📩 [Email Me](mailto:praiseadebiyi2006@gmail.com)  
 - 💬 Let's talk about **frontend, UI/UX, or your next project!**  
 
 ---

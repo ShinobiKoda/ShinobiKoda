@@ -22,3 +22,11 @@ Welcome to my GitHub! I'm a frontend developer, I build sleek, responsive, and a
 - 💬 Let's talk about **frontend, UI/UX, or your next project!**  
 
 ---
+
+## 📊 GitHub Stats  
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shinobikoda&show_icons=true&theme=radical" alt="Shinobikoda's GitHub stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinobikoda&layout=compact&theme=radical" alt="Top Languages" />
+</div>

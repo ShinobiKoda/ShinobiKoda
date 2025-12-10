@@ -25,14 +25,3 @@ Welcome to my GitHub! I'm a frontend developer, I build sleek, responsive, and a
 - 💬 Let's talk about **frontend, UI/UX, or your next project!**  
 
 ---
-
-## 📊 GitHub Stats  
-
-<div align="center">
-
-  <!-- GitHub Stats -->
- ![GitHub stats](https://github-readme-stats.zcy.dev/api?username=shinobikoda&show_icons=true)
-
-
-</div>
-

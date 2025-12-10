@@ -31,12 +31,8 @@ Welcome to my GitHub! I'm a frontend developer, I build sleek, responsive, and a
 <div align="center">
 
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=shinobikoda&show_icons=true&theme=radical" alt="Shinobikoda's GitHub stats" />
-  <br />
+ ![GitHub stats](https://github-readme-stats.zcy.dev/api?username=shinobikoda&show_icons=true)
 
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinobikoda&layout=compact&theme=radical" alt="Top Languages" />
-  <br />
 
 </div>
 

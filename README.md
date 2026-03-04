@@ -1,7 +1,7 @@
 # Hi there, I'm Praise! 👋 
   
+I help startups validate ideas and small businesses scale by delivering high-performance digital assets designed to drive revenue. From high-conversion landing pages that capture leads to full-scale web applications that streamline your operations, I build sleek, accessible, and SEO-optimized experiences that build brand trust and load instantly. My goal is to turn your digital presence into a growth engine that hits your sales goals and reaches your audience everywhere.
 
-Welcome to my GitHub! I'm a frontend developer, I build sleek, responsive, and accessible web applications. 🚀  
 
 ## 🛠️ Tech Stack  
 <div align="left">
